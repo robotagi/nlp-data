@@ -11,5 +11,23 @@ huggingface: https://huggingface.co/datasets/Skylion007/openwebtext
 github: https://github.com/karpathy/nanoGPT/
 
 
+## wikitext-103
+
+download url: https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-v1.zip
+
+huggingface: https://huggingface.co/datasets/wikitext
+
+github: 
+
+
+## text8
+
+download url: http://mattmahoney.net/dc/text8.zip
+
+huggingface: 
+
+github: 
+
+
 
 
